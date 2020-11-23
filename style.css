@@ -64,10 +64,11 @@ H3 {
   clear: both;
 }
 .kolona {
+  
   float: left;
-  width: 50%;
+  width: 320px;
   padding: 10px;
-  height: 1620px;
+  height: 1640px;
 }
 .mala {color: green;}
 .btn {
